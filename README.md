@@ -9,7 +9,7 @@ In questa lezione vederemo:
  - Operazioni di **add e commit**;
  - **Push e Pull** per la sincronizzazione di cloud;
  - **Clone** di un progetto esistente;
- 55
+ 55555
 
  Prontuario comandi GIT di base
 ```
